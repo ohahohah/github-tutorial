@@ -4,6 +4,8 @@
 [![author-ohahohah](https://img.shields.io/badge/author-ohahohah-blue.svg)](https://github.com/ohahohah/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ohahohah/readme-template/graphs/commit-activity) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)  
+***유용하게 쓰셨다면 star [![GitHub stars](https://img.shields.io/github/stars/ohahohah/github-tutorial.svg?style=social)](https://github.com/ohahohah/github-tutorial) 를 눌러주세요!***
+
 
 - template 제공 - 상단 초록색 버튼 [`Use this template`](https://github.com/ohahohah/github-tutorial/generate)을 사용해 템플릿으로 사용해보세요.
 - 15분만에 익히는 Github repository 기능(샘플 포함)
@@ -11,8 +13,7 @@
   - 협업할 때 도움이 되는 [issue](https://github.com/ohahohah/github-tutorial/issues/6), [project board](https://github.com/ohahohah/github-tutorial/projects/1) 관리
   - [PR없이 할 수 있는 코드 리뷰 방법](https://github.com/ohahohah/github-tutorial/issues/7)
   - [gitignore 파일](https://github.com/ohahohah/github-tutorial/blob/master/.gitignore) (Flask, venv, VSCode, Jetbrains IDE(Pycharm,...)설정 무시)
-- 다루지 않는 것 - 기본적인 Git 사용법, markdown 사용법, Pull Request, Github action / 추가 내용은 하단 [`Reference`](#reference)를 참고하세요.  
-*유용하게 쓰셨다면 star ![GitHub stars](https://img.shields.io/github/stars/ohahohah/github-tutorial.svg?style=social) 를 눌러주세요!*
+- 다루지 않는 것 - 기본적인 Git 사용법, markdown 사용법, Pull Request, Github action / 추가 내용은 하단 [Reference](#reference)를 참고하세요.  
 
 ## 주요 튜토리얼  Key Feature
 - [github repository 템플릿](https://github.com/ohahohah/github-tutorial/generate) - 상단 초록색 버튼 [`Use this template`](https://github.com/ohahohah/github-tutorial/generate) 을 클릭해 내 프로젝트의 템플릿으로 사용해보세요.
