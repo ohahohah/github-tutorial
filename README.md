@@ -5,7 +5,7 @@
 [![15min-tutorial-github](https://img.shields.io/badge/15min--tutorial-github-red.svg)](https://github.com/topics/15min-tutorial)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ohahohah/readme-template/graphs/commit-activity) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)  
-***유용하게 쓰셨다면 star [![GitHub stars](https://img.shields.io/github/stars/ohahohah/github-tutorial.svg?style=social)](https://github.com/ohahohah/github-tutorial) 를 눌러주세요!***
+***유용하게 쓰셨다면 상단 star [![GitHub stars](https://img.shields.io/github/stars/ohahohah/github-tutorial.svg?style=social)](https://github.com/ohahohah/github-tutorial) 를 눌러주세요!***
 
 
 - template 제공 - 상단 초록색 버튼 [`Use this template`](https://github.com/ohahohah/github-tutorial/generate)을 사용해 템플릿으로 사용해보세요.
