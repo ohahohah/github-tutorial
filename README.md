@@ -1,4 +1,4 @@
-# 15min - Github Tutorial
+# 15min Tutorial - Github 
 > 15분 tutorial - Github repository 관리
 
 [![author-ohahohah](https://img.shields.io/badge/author-ohahohah-blue.svg)](https://github.com/ohahohah/)
