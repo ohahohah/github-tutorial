@@ -32,7 +32,7 @@
 ## Reference
 - [awesome-Git 자료](https://github.com/ohahohah/TIL/blob/master/Git_Github_Gitlab/awesomelist.md) : git 학습에 도움이 되는 자료 모음
 - [웹 기초 참고자료 by ohahohah](https://www.notion.so/ohahohah/a0c5fd08a99744dd869f9322cc2f0972) - Git 파트 
-- [Markdown tutorial](https://www.markdowntutorial.com/kr/)
+- [Markdown tutorial](https://www.markdowntutorial.com/kr/) / [Markdown Cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## Links
 - Project homepage: https://github.com/ohahohah/github-tutorial/
