@@ -38,7 +38,7 @@
 - Project homepage: https://github.com/ohahohah/github-tutorial/
 - Repository: https://github.com/ohahohah/github-tutorial/
 - Issue tracker: https://github.com/ohahohah/github-tutorial/issues
-  - 보안 취약점 등의 민감한 이슈인 경우 ohahohah.dev@email.com 로 연락주십시오. 
+  - 보안 취약점 등의 민감한 이슈인 경우 [ohahohah.dev@email.com](mailto:ohahohah.dev+gh@gmail.com)로 연락주십시오. 
 - 관련 프로젝트
   - Git README 템플릿 : https://github.com/ohahohah/readme-template
   
