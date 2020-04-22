@@ -45,4 +45,4 @@
 ## License
 ohahohah – [ohahohah.dev@gmail.com](mailto:ohahohah.dev+gh@gmail.com)  
 
-GNU license를 준수합니다. [LICENSE](https://github.com/ohahohah/github-tutorial/blob/master/LICENSE)에서 자세한 정보를 확인할 수 있습니다.  
+MIT license를 준수합니다. [LICENSE](LICENSE)에서 자세한 정보를 확인할 수 있습니다.  
