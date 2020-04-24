@@ -15,7 +15,7 @@
   - [PR없이 할 수 있는 코드 리뷰 방법](https://github.com/ohahohah/github-tutorial/issues/7)
   - [gitignore 파일](https://github.com/ohahohah/github-tutorial/blob/master/.gitignore) (Flask, venv, VSCode, Jetbrains IDE(Pycharm,...)설정 무시)
 - 다루지 않는 것 - 기본적인 Git 사용법, markdown 사용법, Pull Request, Github action / 추가 내용은 하단 [Reference](#reference)를 참고하세요.  
-
+  
 ## 주요 튜토리얼  Key Feature
 - [github repository 템플릿](https://github.com/ohahohah/github-tutorial/generate) - 상단 초록색 버튼 [`Use this template`](https://github.com/ohahohah/github-tutorial/generate) 을 클릭해 내 프로젝트의 템플릿으로 사용해보세요.
 - 따라할 수 있는 [README.md](https://github.com/ohahohah/github-tutorial/blob/master/README.md) 샘플 : 프로젝트를 소개하는 README.md 를 참고할 수 있습니다.
@@ -23,7 +23,12 @@
 - [Commit Comment 남기기](https://github.com/ohahohah/github-tutorial/issues/7) : 작업내용(commit)에 바로 댓글을 달아보세요. PR없이도 Code Review 용도로, 질문하는 용도로 사용할 수 있습니다.
 - issue Tutorial - [issue 샘플](https://github.com/ohahohah/github-tutorial/issues/6) 을 보며 issue 작성에 대한 감을 잡아보세요.
 - issue 설정파일 제공 : issue 성격에 따라 다른 [Issue template](https://github.com/ohahohah/github-tutorial/issues/new/choose)을 사용해보세요. / [설정파일](https://github.com/ohahohah/github-tutorial/tree/master/.github/ISSUE_TEMPLATE)
-- [샘플 프로젝트 보드](https://github.com/ohahohah/github-tutorial/projects/1) 를 참고해 내 프로젝트를 관리하세요.
+- [샘플 프로젝트 보드](https://github.com/ohahohah/github-tutorial/projects/1) 를 참고해 내 프로젝트를 관리하세요.  
+   
+**가이드 예시**  
+![write_comment_640_row](https://user-images.githubusercontent.com/17819874/79872774-2b17f900-8421-11ea-8449-9e6e1774e4f1.gif)
+
+
 
 ## Contribution
 - Contribution을 환영합니다.
