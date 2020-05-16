@@ -1,5 +1,5 @@
-# 15min Tutorial - Github 
-> 15분 tutorial - Github repository 관리
+# 11min Tutorial - Github 
+> 하루에 1번, 11분 tutorial - Github repository 관리
 
 [![author-ohahohah](https://img.shields.io/badge/author-ohahohah-blue.svg)](https://github.com/ohahohah/)
 [![15min-tutorial-github](https://img.shields.io/badge/15min--tutorial-github-red.svg)](https://github.com/topics/15min-tutorial)
